@@ -1,6 +1,6 @@
 LICENSE.txt
 ***********************************************************************
-Violin Emulator
+Hash Table
 By Joe
 
 The code included in this project belongs to its creators. The purpose
