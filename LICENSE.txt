@@ -1,0 +1,7 @@
+LICENSE.txt
+***********************************************************************
+Violin Emulator
+By Joe
+
+The code included in this project belongs to its creators. The purpose
+of this code is purely academic, and is not for sale or copy.
